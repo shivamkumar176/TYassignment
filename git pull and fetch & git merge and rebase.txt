@@ -25,10 +25,10 @@ git merge origin/master should work. Since master is usually a tracking branch, 
     Git rebase is a command that allows developers to integrate changes from one branch to another
 
 **--GIT MERGE:-
-    Git rebase moves a feature branch into a master 
-    whereas
     Git merge adds a new commit preserving the history.
-
+    whereas
+    Git rebase moves a feature branch into a master 
+    
 **--GIT MERGE:-
     Git merge is familiar in use.
     GIT REBASE:-
