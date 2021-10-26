@@ -6,6 +6,7 @@ Q4:-get video and audio in form
 Q5:-list of semantic and asemantic tags
 Q6:-list and implement other tags in form
 Q7:-list of input types
+Q8:-defferentiate between div and span tag.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.A definition list is a list of terms,with a definition of each term.
 we can create definiton list by using the <dl>..</dl> with <dt>...</dt> and <dd>...</dd> tags.
@@ -24,6 +25,13 @@ Asemantic tag are those tags which is not give the meaning to the web page it is
 
 7.list of input types:-
  button,checkbox,color,date,datetime-local,email,file,hidden,image,month,number,password,radio,range,reset,search,submit,tel,text,time,url,week.
+
+8.div:-
+  -div the <div> tag is a block elements which takes the whole line.
+  -it takes the whole line even the content is in half part.
+  -:span:-
+  -span The <span> tag is an inline container used to mark up a part of a text.
+  -it only takes the space equal to the content's space.
 
 
 
