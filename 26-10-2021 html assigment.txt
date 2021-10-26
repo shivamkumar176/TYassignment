@@ -1,0 +1,30 @@
+26-10-2021
+Q1:-go to defination list
+Q2:-search for listing the data as 1.1,1.2
+Q3:-implement Pattern attribute
+Q4:-get video and audio in form
+Q5:-list of semantic and asemantic tags
+Q6:-list and implement other tags in form
+Q7:-list of input types
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1.A definition list is a list of terms,with a definition of each term.
+we can create definiton list by using the <dl>..</dl> with <dt>...</dt> and <dd>...</dd> tags.
+The <dt>..</dt> tag is used to define the term; whereas the <dd>tag is used to give terms defintion.
+eg. <dl>
+        <dt> college </dl>
+        <dd> college is one the best part of our life </dd>
+        <dt> library </dt>
+        <dd> Learn as much as you can </dd>
+
+5.semantic tag:-
+Semantic HTML or semantic markup is HTML that introduces meaning to the web page rather than just presentation. For example, a <p> tag indicates that the enclosed text is a paragraph.
+**even nav tag is a semantic element  because it represents a section of the page whose purpose is to provide navigational links.
+ -:Asemantic tag:-
+Asemantic tag are those tags which is not give the meaning to the web page it is just presentation.For example,<div>.. and <span> is doesnot tell anything about the content.
+
+7.list of input types:-
+ button,checkbox,color,date,datetime-local,email,file,hidden,image,month,number,password,radio,range,reset,search,submit,tel,text,time,url,week.
+
+
+
+ 
