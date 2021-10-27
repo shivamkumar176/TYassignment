@@ -7,7 +7,7 @@ Q5:-list of semantic and asemantic tags
 Q6:-list and implement other tags in form
 Q7:-list of input types
 Q8:-defferentiate between div and span tag.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.A definition list is a list of terms,with a definition of each term.
 we can create definiton list by using the <dl>..</dl> with <dt>...</dt> and <dd>...</dd> tags.
 The <dt>..</dt> tag is used to define the term; whereas the <dd>tag is used to give terms defintion.
@@ -20,8 +20,10 @@ eg. <dl>
 5.semantic tag:-
 Semantic HTML or semantic markup is HTML that introduces meaning to the web page rather than just presentation. For example, a <p> tag indicates that the enclosed text is a paragraph.
 **even nav tag is a semantic element  because it represents a section of the page whose purpose is to provide navigational links.
+tags:- article,section,header,footer,figure,summary,time,form,nav,main,mark,table,caption,strong,legend,thead,tfoot,tbody,aside,input,label,figurecaption,button,title,datalist,option,fieldset,textarea,body,etc...
  -:Asemantic tag:-
 Asemantic tag are those tags which is not give the meaning to the web page it is just presentation.For example,<div>.. and <span> is doesnot tell anything about the content.
+tags:-div,span,h,br,hr,i,a,u,dl,li,dt,ul,ol,dd,th,td,tr,pre,sub,sup,em,
 
 7.list of input types:-
  button,checkbox,color,date,datetime-local,email,file,hidden,image,month,number,password,radio,range,reset,search,submit,tel,text,time,url,week.
@@ -32,6 +34,12 @@ Asemantic tag are those tags which is not give the meaning to the web page it is
   -:span:-
   -span The <span> tag is an inline container used to mark up a part of a text.
   -it only takes the space equal to the content's space.
+
+BLOCK ELEMENTS:-
+div,h,p,br,hr,ol,ul,table,section,form,nav,dl,dt,pre,artical,header,footer,main,figure
+
+INLINE ELEMENTS:-
+span,a,audio,video,u,b,sub,sup,button,object,big,small,etc..
 
 
 
